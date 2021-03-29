@@ -560,7 +560,7 @@ echo  'IPv4: ' ,$ip, "\n";
 <center>
 <span id="clock"><span>  <!--顶部span的id为clock-->
 <div class="footer_copyright">
- Copyright © 2019-2855 - <span id="footyear"></span>OneManager Powered_by_大宝礁 <em> 本主题（归855）版权所有</em>               
+ Copyright © 2019-2855 - <span id="footyear"></span>OneManager Powered_by_    大宝礁 <em> 本主题（归 855）版权所有</em>               
 </div>
 </center>
 &nbsp;
