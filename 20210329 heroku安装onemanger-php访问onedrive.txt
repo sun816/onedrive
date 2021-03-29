@@ -1,0 +1,17 @@
+
+
+20210329 heroku安装onemanger-php访问onedrive
+微软客户机密或 token会定期失效。所以需要重新安装项目。
+
+注意原作者git项目内容变化了，需要用自己备份的OneManager-phpbck压缩包。并且注意readme.md, app.json,update.sh等文件中
+涉及到原作者的https://github.com/....项目URL，全部改为自己github desktop上传仓库的地址 https://github.com/sun816/onedrive
+（否则readme.md上运行安装的会是新的项目，而不是本地备份的）
+
+
+1、微软客户机密或 token会定期失效。所以需要重新安装项目。
+2、建议删除heroku的drive1st
+3、重新从https://github.com/sun816/onedrive安装项目（注意上面提到的，要用自己备份的neManager-phpbck压缩包文件，并且修改URL）
+4、可以直接在heroku建立，然后拉https://github.com/sun816/onedrive，完成安装后到app网页加ondrive盘。
+5、应该会要求填写Heroku api和web密码 su??j??_12???56
+6、选第一个MS，自己建立client,有个输入darksun...@msn.com，返回client机密，返回php应用的client ID，填写后微软重新生成refresh token大段字符，并写入。
+7、到网页设置 ly_white.php theme
