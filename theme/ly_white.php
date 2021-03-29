@@ -6,7 +6,7 @@
     <meta charset=utf-8>
     <meta http-equiv=X-UA-Compatible content="IE=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
-    <meta name="keywords" content="<?php echo $n_path;?>,<?php if ($p_path!='') echo $p_path.','; echo $_SERVER['sitename'];?>,OneManager,auth_by_逸笙">
+    <meta name="keywords" content="<?php echo $n_path;?>,<?php if ($p_path!='') echo $p_path.','; echo $_SERVER['sitename'];?>,OneManager,auth_by_大宝礁">
     <link rel="icon" href="<?php echo $_SERVER['base_disk_path'];?>favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="<?php echo $_SERVER['base_disk_path'];?>favicon.ico" type="image/x-icon" />
     &nbsp;
@@ -560,7 +560,7 @@ echo  'IPv4: ' ,$ip, "\n";
 <center>
 <span id="clock"><span>  <!--顶部span的id为clock-->
 <div class="footer_copyright">
- Copyright © 2019-2020 - <span id="footyear"></span>OneManager Powered_by_逸笙 <em> 本主题（归彼岸云端）版权所有</em>               
+ Copyright © 2019-2855 - <span id="footyear"></span>OneManager Powered_by_大宝礁 <em> 本主题（归855）版权所有</em>               
 </div>
 </center>
 &nbsp;
